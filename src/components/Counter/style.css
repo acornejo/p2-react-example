@@ -1,0 +1,10 @@
+.counter {
+    background-color: #44f;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    width: 100px;
+    padding: 20px;
+}
